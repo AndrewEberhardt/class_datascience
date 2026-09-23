@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7057eda1-9e98-4f16-a7d2-b7d282c380ed" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2026/02_Data-Cleaning/other_learning_files/02_Data-Cleaning-Practice.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2026/02_Data-Cleaning/other_learning_files/02_Data-Cleaning-Practice.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2026/03_EDA-Visualization/03_graphs_with_plotly.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2026/03_EDA-Visualization/03_graphs_with_plotly.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2026/03_EDA-Visualization/other_learning_files/03_EDA_Data-visualization.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2026/03_EDA-Visualization/other_learning_files/03_EDA_Data-visualization.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +30,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.03_graphs_with_plotly.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -62,11 +64,14 @@
       <updated>1789594568471</updated>
       <workItem from="1789594569672" duration="163000" />
       <workItem from="1789908329623" duration="37000" />
-      <workItem from="1790158138957" duration="3920000" />
+      <workItem from="1790158138957" duration="10405000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/class_datascience$03_graphs_with_plotly.coverage" NAME="03_graphs_with_plotly Coverage Results" MODIFIED="1790164269521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2026/03_EDA-Visualization" />
   </component>
 </project>
