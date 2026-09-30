@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="7057eda1-9e98-4f16-a7d2-b7d282c380ed" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2026/03_EDA-Visualization/other_learning_files/03_EDA_Practice.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2026/03_EDA-Visualization/other_learning_files/03_EDA_Practice.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2026/03_EDA-Visualization/other_learning_files/03_EDA_Practice_Solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2026/03_EDA-Visualization/other_learning_files/03_EDA_Practice_Solutions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2026/04_Probability/04_Probability_exercises.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2026/04_Probability/04_Probability_exercises.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +66,7 @@
       <workItem from="1789908329623" duration="37000" />
       <workItem from="1790158138957" duration="11162000" />
       <workItem from="1790191101381" duration="11000" />
+      <workItem from="1790755772339" duration="1087000" />
     </task>
     <servers />
   </component>
